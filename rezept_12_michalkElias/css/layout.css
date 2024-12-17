@@ -1,0 +1,119 @@
+body
+{
+    background-image: url("../Bilder/holzHintergrund.jpg");
+    /* https://pixabay.com/de/photos/holz-bretter-textur-h%C3%B6lzern-brown-2045380/ */
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.background
+{
+    width: 960px;
+    margin: 20px auto 40px auto;
+    background-image: url("../Bilder/paragmentBackground.jpg");
+    /* https://www.freepik.com/free-photo/vintage-grungy-textured-paper-background_15599867.htm#fromView=keyword&page=1&position=2&uuid=c66eed3d-fbb0-4142-9460-941e77cfd2d2 */
+    background-color: rgb(234,219,203);
+    border: 2px rgb(0, 0, 0) solid;
+    border-radius: 10px;
+}
+
+nav :hover    
+{
+    transition: 0.5s all ease;
+    font-size: 110%;
+    text-shadow: 0px 0px 2px rgba(255, 255, 255, 0.411);
+    transition: 0.5s all ease-out;
+} 
+
+nav
+{
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: 1px rgb(255, 255, 255) solid;
+    box-shadow: 0px 0px 5px rgb(255, 255, 255);
+    background-color: rgba(255, 255, 255, 0.205);
+    width: fit-content;
+    border-radius: 25px;
+    padding: 1px 20px 1px 20px;
+}
+
+h1
+{
+    text-align: center;
+    text-decoration: underline;
+    font-size: 35px;
+}
+
+.kartoffelPositionieren
+{
+    border: 0px black solid;
+    box-shadow: 0px 0px 10px rgba(182, 176, 149);
+    border-radius: 15px;
+    background-color: rgba(255, 255, 255, 0.205);
+    padding: 10px 10px 10px 10px;
+    width: 800px;
+    margin: auto;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+img
+{
+    border: 1px black solid;
+    box-shadow: 0px 0px 5px black;
+}
+
+.imgContainer
+{
+    padding-left: 100px;
+}
+
+.seite 
+{
+    border: 0px black solid;
+    box-shadow: 0px 0px 10px rgba(182, 176, 149);
+    border-radius: 15px;
+    background-color: rgba(255, 255, 255, 0.205);
+    padding: 10px 10px 10px 10px;
+    width: 800px;
+    margin: auto;
+    margin-bottom: 20px;
+}
+
+ul
+{
+    line-height: 20px;
+}
+
+dl
+{
+    line-height: 20px;
+}
+
+ol
+{
+    margin-right: 30px;
+}
+
+hr
+{
+    color: black;
+    background-color: black;
+    border: none;
+    height: 1px;
+}
+
+.positionVonBildersammlung
+{
+    margin-left: 20px;
+}
+
+.textBildersammlung
+{
+    padding-top: 20px;
+}
+
+.quellenText
+{
+    margin-left: 20px;
+}

@@ -1,0 +1,41 @@
+body
+{
+    background-color:#bebebe;
+    background-image: url("../pics/papier_hintergrund.jpg");
+    /*https://de.vecteezy.com/fotos-kostenlos/papier*/
+    text-align:center;
+    font-size: 14pt;
+}
+
+.textAlign
+{
+    width:900px;
+    margin: auto;
+    text-align: left;
+}
+
+.linkBox
+{
+    background-color: #ffffff;
+    color: #000000;
+    padding: 10px 10px;
+    border: 2px solid black;
+    text-align: center;
+    display: inline-block;
+}
+
+.hoverBox :hover
+{
+    background-color: #5555ff;
+    color: #000000;
+}
+
+.rot
+{
+    color: #d20412dc;
+}
+
+.gruen
+{
+    color: #117b008f
+}

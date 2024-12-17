@@ -1,0 +1,61 @@
+
+header{
+  background-color:midnightblue;
+  color: white;
+  padding:30px;
+}
+
+
+
+footer{
+  background-color: midnightblue;
+  color: white;
+  padding: 30px;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  height: 10%
+}
+
+div {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  padding: 30px;
+  background-color: lightblue;
+}
+
+main{
+  color: black;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  background-color: lightblue;
+}
+
+nav li {
+  align-items: center;
+  display: inline;
+
+
+}
+nav ul {
+  text-align: center;
+  list-style-type: square;
+}
+
+html {
+  font-size: 30px;
+}
+
+img {
+    float: right;
+    margin-right: 700px;
+  }
+
+h2 span{
+  background-color: #FFC0CB;
+
+}

@@ -1,0 +1,106 @@
+body
+{
+ background-image: url("/images/background.jpg");
+ background-size: cover;
+ background-repeat: no-repeat;
+}
+
+h1 
+{
+    color: rgb(253, 235, 198);
+    text-align: center;
+    font-family: Impact;
+    font-size: 45px;
+}
+
+img 
+{
+scale: 30%;
+text-align: center;
+margin-top: -300px;
+margin-left: -34px;
+border-radius: 70px;
+filter:opacity(90%);
+}
+
+.zutaten
+{
+    text-align: left;
+    margin-top: -600px;
+    margin-left: 100px;
+    font-family: Impact;
+    font-size: 36px;
+    color: rgb(253, 235, 198);
+}
+
+ul
+{
+margin-left: 100px;
+font-family: Impact;
+font-size: 25px;
+color: rgb(253, 235, 198);
+}
+
+.link
+{
+margin-top: 50px;
+margin-left: 97px;
+font-family: Impact;
+font-size: 32px;
+color: rgb(253, 235, 198);
+}
+
+dt 
+{
+margin-left: 115px;
+font-size: 25px;
+font-family: Impact;
+color: rgb(253, 235, 198);
+}
+
+a
+{
+text-decoration: none;
+cursor: default;
+margin-left: 104px;
+font-family: Impact;
+color: rgb(253, 235, 198);
+filter: opacity(45%);
+font-size: 17px;
+}
+
+a:hover
+{
+text-decoration: none;
+cursor: pointer;
+}
+
+h2
+{
+    text-align: left;
+    margin-top: -352px;
+    margin-left: 1000px;
+    font-family: Impact;
+    font-size: 36px;
+    color: rgb(253, 235, 198);
+}
+
+ol
+{
+    text-align: left;
+    margin-top: 5px;
+    margin-left: 990px;
+    font-family: Impact;
+    font-size: 24px;
+    color: rgb(253, 235, 198);
+}
+
+h3
+{
+    text-align: left;
+    margin-top: 40px;
+    margin-left: 610px;
+    font-family: Impact;
+    font-size: 18px;
+    color: rgb(253, 235, 198);
+}
